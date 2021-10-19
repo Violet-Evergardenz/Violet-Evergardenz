@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# portfolio 👋
+- Poonpipat Suvanarawat
+- 🌱 currently learning King Mongkut’s University of Technology Thonburi 
+- 📫 How to reach me: poonpipat.exp@mail.kmutt.ac.th
+- 💬 Ask me about ...
 <!--
 **Violet-Evergardenz/Violet-Evergardenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
